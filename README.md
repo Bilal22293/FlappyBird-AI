@@ -15,9 +15,6 @@ You can play the game yourself or observe how does AI learn to play the game
 
 ## Installation
 Follow the instructions below to set up the game on your local machine.
-
-### Requirements
-- [List programming language or framework requirements, e.g., Python 3.x, Pygame]
   
 ### Steps
 1. Clone this repository:
