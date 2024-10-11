@@ -10,7 +10,7 @@ You can play the game yourself or observe how does AI learn to play the game
 - **Smooth Gameplay**: Experience smooth, addictive gameplay.
 - **Random Pipe Generation**: The pipes are randomly generated, making each game different.
 - **Score System**: Players earn points by passing through pipes.
-- **Responsive Controls**: The bird can flap by pressing the spacebar or tapping the screen (if applicable).
+- **Responsive Controls**: The bird can flap by pressing the spacebar.
 - **High Score**: Tracks and displays the player's best score.
 
 ## Installation
